@@ -1,2 +1,2 @@
 # adv-gis
-Advanced GIS class homeword
+Advanced GIS class homework
